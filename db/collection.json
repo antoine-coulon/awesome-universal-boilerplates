@@ -1,0 +1,16 @@
+{
+  "Go": {
+    "repositories": [
+      {
+        "name": "go-api-boilerplate",
+        "description": "Go Server/API boilerplate using best practices DDD CQRS ES gRPC",
+        "author": "vardius",
+        "url": "https://github.com/vardius/go-api-boilerplate",
+        "metadata": {
+          "keywords": ["Go", "DDD", "CQRS", "gRPC"],
+          "popularity": "medium"
+        }
+      }
+    ]
+  }
+}
