@@ -10,6 +10,26 @@
           "keywords": ["Go", "DDD", "CQRS", "gRPC"],
           "popularity": "medium"
         }
+      },
+      {
+        "name": "goilerplate",
+        "description": "Clean Boilerplate of Go, Domain-Driven Design, Clean Architecture, Gin and GORM.",
+        "author": "resotto",
+        "url": "https://github.com/resotto/goilerplate",
+        "metadata": {
+          "keywords": ["Go", "DDD", "Gin", "GORM", "Gin"],
+          "popularity": "medium"
+        }
+      },
+      {
+        "name": "go-base",
+        "description": "Go RESTful API Boilerplate with JWT Authentication backed by PostgreSQL",
+        "author": "dhax",
+        "url": "https://github.com/dhax/go-base",
+        "metadata": {
+          "keywords": ["Go", "REST", "JWT", "API", "PostgreSQL"],
+          "popularity": "high"
+        }
       }
     ]
   }
