@@ -32,5 +32,102 @@
         }
       }
     ]
+  },
+  "Node.js": {
+    "repositories": [
+      {
+        "name": "hackathon-starter",
+        "description": "A boilerplate for Node.js web applications",
+        "author": "sahat",
+        "url": "https://github.com/sahat/hackathon-starter",
+        "metadata": {
+          "keywords": ["Node.js", "Nodejs", "Web", "Express.js", "Express"],
+          "popularity": "high"
+        }
+      },
+      {
+        "name": "node-api-boilerplate",
+        "description": "DDD/Clean Architecture inspired boilerplate for Node web APIs",
+        "author": "talyssonoc",
+        "url": "https://github.com/talyssonoc/node-api-boilerplate",
+        "metadata": {
+          "keywords": ["Node.js", "Nodejs", "DDD", "Clean Architecture"],
+          "popularity": "high"
+        }
+      },
+      {
+        "name": "TypeScript-Node-Starter",
+        "description": "A reference example for TypeScript and Node with a detailed README describing how to use the two together.",
+        "author": "microsoft",
+        "url": "https://github.com/microsoft/TypeScript-Node-Starter",
+        "metadata": {
+          "keywords": ["Node.js", "Nodejs", "TypeScript"],
+          "popularity": "high"
+        }
+      },
+      {
+        "name": "node-typescript-boilerplate",
+        "description": "Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Jest and type definitions included.",
+        "author": "jsynowiec",
+        "url": "https://github.com/jsynowiec/node-typescript-boilerplate",
+        "metadata": {
+          "keywords": ["Node.js", "Nodejs", "TypeScript", "ESLint", "Jest"],
+          "popularity": "high"
+        }
+      },
+      {
+        "name": "node-express-mongoose",
+        "description": "A boilerplate application for building web apps using node and mongodb",
+        "author": "madhums",
+        "url": "https://github.com/madhums/node-express-mongoose",
+        "metadata": {
+          "keywords": [
+            "Node.js",
+            "Nodejs",
+            "Express",
+            "Express.js",
+            "MongoDB",
+            "Mongoose"
+          ],
+          "popularity": "high"
+        }
+      },
+      {
+        "name": "node-express-boilerplate",
+        "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
+        "author": "hagopj13",
+        "url": "https://github.com/hagopj13/node-express-boilerplate",
+        "metadata": {
+          "keywords": [
+            "Node.js",
+            "Nodejs",
+            "REST",
+            "Express",
+            "Express.js",
+            "MongoDB",
+            "Mongoose"
+          ],
+          "popularity": "high"
+        }
+      },
+      {
+        "name": "graphql-starter",
+        "description": "💥 Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, and Material UI.",
+        "author": "kriasoft",
+        "url": "https://github.com/kriasoft/graphql-starter",
+        "metadata": {
+          "keywords": [
+            "Node.js",
+            "Nodejs",
+            "GraphQL",
+            "PostgreSQL",
+            "React",
+            "Relay",
+            "Material UI"
+          ],
+          "popularity": "high"
+        }
+      }
+    ]
   }
 }
