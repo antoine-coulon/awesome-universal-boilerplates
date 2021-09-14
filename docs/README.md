@@ -4,6 +4,13 @@ The database can be downloaded and directly imported to automate the use of boil
 
 ## Populating database
 
+Populating the database has to be done in two steps:
+
+<ol>
+  <li>Add new boilerplate in the root README.md, following current structure</li>
+  <li>Update the db/collection.json file with the new boilerplate</li>
+</ol>
+
 It is following a simple schema that can be described by this interface :
 
 ```ts
